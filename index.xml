@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Symmetric Digital</title>
+    <link>https://symmetric.digital/</link>
+    <description>Recent content on Symmetric Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://symmetric.digital/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://symmetric.digital/portfolio/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://symmetric.digital/portfolio/</guid>
+      <description>div.gallery {display: flex;flex-wrap: wrap;}div.gallery a {flex-grow: 1;object-fit: cover;margin: 2px;display: flex;}div.gallery a img { height: 200px;object-fit: cover;flex-grow: 1;}                                          -- h1 { visibility: hidden; }.</description>
+    </item>
+    
+  </channel>
+</rss>
